@@ -28,8 +28,6 @@
     <script src="script.js"></script>
 </body>
 </html>
-
-ㅤ, [3/23/2025 1:54 AM]
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -77,8 +75,6 @@ nav ul li a:hover {
 main {
     padding: 20px;
 }
-
-ㅤ, [3/23/2025 1:54 AM]
 window.onload = function () {
     if (window.Telegram.WebApp) {
         Telegram.WebApp.expand(); // Разворачивает приложение на весь экран
